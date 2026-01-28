@@ -52,6 +52,8 @@ function getProductSidebarGroups() {
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://wiki.plumesky.com',
+	output: 'static',
 	adapter: edgeoneAdapter(),
 	integrations: [
 		starlight({
