@@ -56,6 +56,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Phoenixtech Wiki',
+			components: {
+                Footer: './src/components/SiteFooter.astro',
+            },
 			logo: {
 				src: './public/logo.png',
 			},
