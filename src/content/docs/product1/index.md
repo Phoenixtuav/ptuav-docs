@@ -3,7 +3,7 @@ title: Test index 1
 description: A guide in my new Starlight docs site.
 hero:
   image:
-    file: ../../../assets/product1/test.jpg
+    file: ../../../assets/product1/test.png
     alt: X1 无人机产品图
 ---
 ## 111
