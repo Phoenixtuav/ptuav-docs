@@ -1,3 +1,4 @@
+# 仓库已迁移至组织仓库，请查看组织仓库
 # Starlight Starter Kit: Basics
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
